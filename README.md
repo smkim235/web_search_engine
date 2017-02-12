@@ -1,8 +1,6 @@
 # Web Search Engine
 ## for the mathematics department at Brown University
 
-by Semin Kim. Last Update: 2017/01/05.
-
 We implement a web search engine for the department of mathematics at Brown University.
 
 1. Crawler
